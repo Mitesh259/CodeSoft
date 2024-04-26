@@ -1,0 +1,79 @@
+@@ -0,0 +1,94 @@
+@font-face {
+    src:url(fonts/OneDirection.ttf)format("truetype");
+    font-family: nos;
+}
+.paragraph{
+    text-align: center;
+    font-size: 30px;
+    font-family:sans-serif;
+    color: black;
+}
+.paragraph2{
+    text-align:center;
+    background-color: #ebe1e1;
+    font-size: 100px;
+    font-family: nos;
+    color: rgb(7, 7, 7);
+}
+.menu-bar
+{
+text-align:center;
+background-color: #000000;
+}
+.menu-bar ul
+{
+   display: inline-flex;
+   color:floralwhite
+}
+.menu-bar ul li
+{
+    font-family: Impact;
+    width: 150px;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.menu-bar ul li:hover
+{
+
+    background: floralwhite;
+    color: #000000;
+    border-radius:3px;
+}
+.paragraph5{
+    background: rgb(255, 251, 9);
+    font-size: 20px;
+    font-family:Courier;
+    margin: 30px;
+    color: red }
+
+
+
+.lets-go-btn{
+    color: black;
+    background: rgb(227, 26, 26);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: -15px; 
+}
+.lets-go-btn:hover{
+    background: rgb(241, 239, 239);
+}
+
+
+.footer{
+    background-color:rgb(114, 111, 111);
+    margin-top:20%;
+}
+.p1{
+    color:black;
+    font-size: larger;
+    padding-bottom: 3px;
+
+}
